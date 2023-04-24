@@ -1,0 +1,26 @@
+Cotton--Ascochyta blight
+Cotton--bacterial_blight
+Cotton--curl_virus
+Cotton--fussarium_wilt
+Cotton--Healthy
+کوٹا
+Rice-Bacterial leaf blight
+Rice-Brown spot
+Rice--Healthy
+Rice-Leaf smut
+Rice-tungro
+Sugarcane-Grassyshoot
+Sugarcane-Healthy
+Sugarcane-Mosiac Disease
+sugarcane-RedRot
+Sugarcane-Smut
+Tobacco-broomrape
+Tobacco-collarrot
+Tobacco-Frog eye spot
+Tobacco-Granville walt
+Tobacco--Healthy
+wheat_blast
+wheat_blight
+wheat_healthy
+wheat_smut
+wheat_stripe_rust

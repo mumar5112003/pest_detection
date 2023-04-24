@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "493801210955",
+    "project_id": "pest-detection-59c57",
+    "storage_bucket": "pest-detection-59c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493801210955:android:9afe97b7e06e371a3a39ce",
+        "android_client_info": {
+          "package_name": "com.example.pest_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493801210955-a76ttl3sk9cb94i5nh7mchmn5g95u1ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7FHOLg0WZ_O3gqgZU8WAIB45N-OAXs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493801210955-a76ttl3sk9cb94i5nh7mchmn5g95u1ri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493801210955-djc88r8496brtmvltrkuif045qfuco0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pestDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
